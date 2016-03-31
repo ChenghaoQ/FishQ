@@ -7,3 +7,9 @@ def divid3():
 
 
 divid3()
+#Use the filter to get the same result
+list(filter (lambada n: not(n%3), range(1,100)
+
+
+#使用列表推导式
+[i for i in range(1,100) if  not(i%3)]
